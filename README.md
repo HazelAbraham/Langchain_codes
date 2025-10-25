@@ -15,3 +15,7 @@ Utilizing output parsers like StrOutputParser to process model output.
 Demonstrating the concept of LangChain Expression Language (LCEL) for chaining components (Prompt, Model, Parser).
 
 Introducing the idea of agents and attempting to use a prebuilt agent with a search tool, although encountering an error due to a missing API key.
+
+
+2. Textpreprocessing.py : This notebook  navigates through the techniques which I learnt ::: Not all is covered just the basics
+   
